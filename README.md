@@ -6,8 +6,11 @@ Creating AWS IAM User and assigning Policies with Terraform
 
 ## NOTE: • The AWS Credentails used are authentic and DELETED after the completion of this project for security purposes. 
 The Config file location for Linux & MacOS is:
+
 ~/.aws/config
+
 The Credentials file location for Linux & MacOS is:
+
 ~/.aws/credentials
 
 The Credentials used for this project are stored in these files
